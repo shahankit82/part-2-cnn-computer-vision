@@ -1,0 +1,19 @@
+# Core
+numpy==1.26.4
+pandas==2.2.2
+
+# Visualization
+matplotlib==3.8.4
+
+# Machine Learning
+scikit-learn==1.4.2
+
+# Deep Learning (CNN)
+tensorflow==2.15.0
+
+# Image Processing
+Pillow==10.3.0
+
+# Notebook
+notebook==7.2.0
+ipykernel==6.29.4
